@@ -1,0 +1,3 @@
+Manifest-Version: 1.0
+ua.pasta.pasteproj.test.Main-Class: ua.pasta.pasteproj.Main
+
